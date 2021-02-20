@@ -1,5 +1,5 @@
 {
-  "Products": {
+  "Product": {
     "title": "string",
     "createdAt": "date"
   }
