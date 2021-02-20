@@ -1,10 +1,7 @@
 {
-  "Doctor": {
-    "name": "string",
-    "job": "string",
+  "Posts": {
+    "title": "string",
+    "views": "int",
     "createdAt": "date"
-  },
-  "Comment": {
-    "doctor": "Doctor"
   }
 }
