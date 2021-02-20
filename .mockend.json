@@ -1,6 +1,7 @@
 {
-  "Product": {
-    "title": "string",
+  "Doctor": {
+    "name": "string",
+    "job": "string",
     "createdAt": "date"
   }
 }
