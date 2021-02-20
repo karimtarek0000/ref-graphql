@@ -3,5 +3,8 @@
     "name": "string",
     "job": "string",
     "createdAt": "date"
+  },
+  "Comment": {
+    "doctor": "Doctor"
   }
 }
