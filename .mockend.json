@@ -1,5 +1,6 @@
 {
-  "Post": {
-    "title": "string"
+  "Products": {
+    "title": "string",
+    "createdAt": "date"
   }
 }
