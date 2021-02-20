@@ -1,0 +1,18 @@
+{
+<<<<<<< HEAD
+  "Post": {
+    "title": "string"
+=======
+  "post": {
+    "title": "string",
+    "views": "int",
+    "published": "boolean",
+    "createdAt": "date",
+    "comments": "Comment[]"
+  },
+  "Comment": {
+    "body": "string",
+    "post": "Post"
+>>>>>>> 6e6b19d1c65150bb151ab321c9c82cd15b44cf9c
+  }
+}
